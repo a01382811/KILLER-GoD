@@ -1,0 +1,2 @@
+mkdir -p database
+echo '{"startTime": "'$(date)'", "commands": 0}' > database/db.json
