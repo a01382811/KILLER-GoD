@@ -1,0 +1,15 @@
+# KILLER-GoD
+# Initialiser git
+git init
+
+# Ajouter tous les fichiers
+git add .
+
+# Commit
+git commit -m "KILLER God - Version complète"
+
+# Ajouter le remote (pour KILLER-God)
+git remote add origin https://github.com/KillerGod/KILLER-God.git
+
+# Push
+git push -u origin main
